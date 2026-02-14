@@ -1,7 +1,7 @@
 /**
  * Plugin Name: Drupal Gallery Importer
  * Description: Import Drupal galleries from JSON into a custom post type, with background processing, batched imports, live progress, and multiple front-end displays including tiles with lightbox. Handles large gallery deletions without timeouts.
- * Version: 2.5.0
+ * Version: 2.4.2
  * Author: Carl N.
  * License: GPL v2 or later
  * Text Domain: drupal-gallery-importer
@@ -2225,3 +2225,4 @@ function dgi_settings_page() {
     </div>
     <?php
 }
+
